@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ignacio Justel
+### Hi there 👋, I'm Ignacio Justel
 - 🌱 I’m currently learning JavaScript and Java
 
 
