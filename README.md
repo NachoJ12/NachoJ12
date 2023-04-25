@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Ignacio Justel
-- 🌱 I’m currently learning JavaScript, React and Java with Spring Boot
+- 🌱 Currently, I am deepening my knowledge in Java with Spring Boot, Spring Cloud, and developing APIs and microservices.
+- 💡 I also find JavaScript and React interesting.
+- 🏊‍♂️ I like swimming
 
 ##
 <div> 
@@ -16,10 +18,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" height="40px" alt="icon javascript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" height="40px" alt="icon react"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" height="50px" alt="icon mysql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50px" height="50px" alt="icon mongodb"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50px" height="50px" alt="icon java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50px" height="50px" alt="icon spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50px" height="50px" alt="icon docker" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40px" height="40px" alt="icon postman"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50px" height="50px" alt="icon git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="40px" height="40px" alt="icon gitlab" />
+
   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" height="40px" alt="icon figma"/>
 </div>
 
   ##
