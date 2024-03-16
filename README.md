@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Ignacio Justel
-- 🌱 Currently, I am deepening my knowledge in Java with Spring Boot, Spring Cloud, and developing APIs and microservices.
-- 💡 I also find JavaScript and React interesting.
+- 👨🏻‍💻 Currently, I work in the exciting world of IT infrastructure, where I apply a variety of DevOps tools and practices to optimize processes and improve efficiency in software development and deployment
+- 🌱 I have knowledge of Java development with Spring Boot, Spring Cloud, APIs and microservices
+- 💡 I also find JavaScript and React interesting
 - 🏊‍♂️ I like swimming
 
 ##
@@ -17,17 +18,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="40px" height="40px" alt="icon bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" height="40px" alt="icon javascript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" height="40px" alt="icon react"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" height="40px" alt="icon figma"/>
+  
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" height="50px" alt="icon mysql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" width="50px" height="50px" alt="icon mariadb"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50px" height="50px" alt="icon mongodb"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50px" height="50px" alt="icon java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50px" height="50px" alt="icon spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50px" height="50px" alt="icon docker" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40px" height="40px" alt="icon postman"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50px" height="50px" alt="icon git"/>
+
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50px" height="50px" alt="icon docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" width="60px" height="60px"  alt="icon kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" width="50px" height="50px"  alt="icon helm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rancher/rancher-plain-wordmark.svg" width="60px" height="60px"  alt="icon rancher" />
+  <img src=https://raw.githubusercontent.com/goharbor/website/master/docs/img/readme/harbor_logo.png width="159.3px" height="45.3px" alt="icon harbor" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" width="40px" height="40px"  alt="icon putty" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40px" height="40px"  alt="icon linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50px" height="50px" alt="icon git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="40px" height="40px" alt="icon gitlab" />
 
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" height="40px" alt="icon figma"/>
 </div>
 
   ##
